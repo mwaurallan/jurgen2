@@ -40,7 +40,7 @@
 						@if(!empty($receipt_details->display_name))
 							<span>
 {{--						{{$receipt_details->display_name}}--}}
-						Bumala Town,Along Kisumu-Busia RD
+						Nambale Town,Along Mumias-Busia RD
 					</span>
 							<br/>
 				@endif
