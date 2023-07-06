@@ -513,7 +513,7 @@
 					{{--					{!! $receipt_details->footer_text !!}--}}
 
 {{--					Mpesa Paybill:247247 -A/C ---}}
-					     Paybill Number 522533 A/No.7617941
+					     Paybill Number 522533 A/No.7617841
 
 					<p><h5>Thanks for Shopping with us.!!!!</h5></p>
 {{--					<p><h5>When you Think Of Buggers Think Scoops</h5></p>--}}
